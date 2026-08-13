@@ -35,6 +35,20 @@
 
 ---
 
+## 🛠️ Tecnologias e Ferramentas Utilizadas
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D24?style=for-the-badge&logo=debian&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+- **Sistema Operacional:** Linux (Distribuições Debian/Ubuntu)
+- **Interface:** Shell / Terminal Bash
+- **Conceitos Chave:** Hardening, Controle de Acesso (RBAC), Permissões POSIX (`chmod`, `chown`), Gerenciamento de Processos, Filtros de Texto (`grep`), Auditoria de Usuários e Segurança do Sistema de Arquivos (`FHS`).
+
+---
+
 ## 🔗 Fonte do Conteúdo
 
 - **Playlist:** - Bóson Treinamentos [Curso de Linux (YouTube) ](https://www.youtube.com/watch?v=UsHiWIgxj2M&list=PLUO_OuMzpk6l5VdncktFOeTV77mgUeD_B)
