@@ -51,4 +51,4 @@
 
 ## 🔗 Fonte do Conteúdo
 
-- **Playlist:** Bóson Treinamentos - <a href="https://www.youtube.com/watch?v=UsHiWIgxj2M&list=PLUO_OuMzpk6l5VdncktFOeTV77mgUeD_B" target="_blank">Curso de Linux (YouTube)</a>
+- **Bóson Treinamentos** [Curso de Linux (YouTube)](https://www.youtube.com/watch?v=UsHiWIgxj2M&list=PLUO_OuMzpk6l5VdncktFOeTV77mgUeD_B)
