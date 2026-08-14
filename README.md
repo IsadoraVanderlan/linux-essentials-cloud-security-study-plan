@@ -19,7 +19,7 @@
 
 | Aula no Plano | Tema do Módulo                                                   | Vídeo Exato na Playlist Bóson                       | Status |             Anotações              |
 | :-----------: | :--------------------------------------------------------------- | :-------------------------------------------------- | :----: | :--------------------------------: |
-|    **01**     | Instalação do Linux Debian (Servidor em VM)                      | **Aula 02** - Instalação do Linux Debian            |   ❌   | [Ver Resumo](./resumos/aula-01.md) |
+|    **01**     | Instalação do Linux Debian (Servidor em VM)                      | **Aula 02** - Instalação do Linux Debian            |   ✅   | [Ver Resumo](./resumos/aula-01.md) |
 |    **02**     | Estrutura de Diretórios e Sistema de Arquivos                    | **Aula 70** - Estrutura do Sistema de Arquivos      |   ❌   | [Ver Resumo](./resumos/aula-02.md) |
 |    **03**     | Comandos Básicos de Navegação (`ls`, `cd`, `pwd`, `clear`)       | **Aula 04** (Comando ls) e **Aula 17** (Básicos 01) |   ❌   | [Ver Resumo](./resumos/aula-03.md) |
 |    **04**     | Manipulação de Arquivos e Diretórios (`mkdir`, `cp`, `rm`)       | **Aula 23** (cp, rm) e **Aula 24** (mkdir, rmdir)   |   ❌   | [Ver Resumo](./resumos/aula-04.md) |
