@@ -52,3 +52,7 @@
 ## 🔗 Fonte do Conteúdo
 
 - **Bóson Treinamentos** [Curso de Linux (YouTube)](https://www.youtube.com/watch?v=UsHiWIgxj2M&list=PLUO_OuMzpk6l5VdncktFOeTV77mgUeD_B)
+
+## 🤝 Agradecimentos
+
+Agradecimento especial ao **Edson Bezerra** (_Manager, LATAM Cyber Security Infrastructure Services - DXC Technology_) pela mentoria, orientações estratégicas e incentivo na estruturação deste plano de estudos e documentação.
