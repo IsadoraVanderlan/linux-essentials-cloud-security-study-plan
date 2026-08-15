@@ -21,8 +21,8 @@
 | :-----------: | :--------------------------------------------------------------- | :-------------------------------------------------- | :----: | :---------------------------: |
 |    **01**     | Instalação do Linux Debian (Servidor em VM)                      | **Aula 02** - Instalação do Linux Debian            |   ✅   | [Ver Resumo](./Resumos/01.md) |
 |    **02**     | Estrutura de Diretórios e Sistema de Arquivos                    | **Aula 70** - Estrutura do Sistema de Arquivos      |   ✅   | [Ver Resumo](./Resumos/02.md) |
-|    **03**     | Comandos Básicos de Navegação (`ls`, `cd`, `pwd`, `clear`)       | **Aula 04** (Comando ls) e **Aula 17** (Básicos 01) |   ⌛   | [Ver Resumo](./Resumos/03.md) |
-|    **04**     | Manipulação de Arquivos e Diretórios (`mkdir`, `cp`, `rm`)       | **Aula 23** (cp, rm) e **Aula 24** (mkdir, rmdir)   |   ❌   | [Ver Resumo](./Resumos/04.md) |
+|    **03**     | Comandos Básicos de Navegação (`ls`, `cd`, `pwd`, `clear`)       | **Aula 04** (Comando ls) e **Aula 17** (Básicos 01) |   ✅   | [Ver Resumo](./Resumos/03.md) |
+|    **04**     | Manipulação de Arquivos e Diretórios (`mkdir`, `cp`, `rm`)       | **Aula 23** (cp, rm) e **Aula 24** (mkdir, rmdir)   |   ⌛   | [Ver Resumo](./Resumos/04.md) |
 |    **05**     | Leitura de Arquivos e Logs (`head`, `tail`, `cat`)               | **Aula 19** (head) e **Aula 21** (tail, tac, wc)    |   ❌   | [Ver Resumo](./Resumos/05.md) |
 |    **06**     | Permissões de Acesso a Arquivos e Pastas                         | **Aula 05** - Permissões de Acesso no Terminal      |   ❌   | [Ver Resumo](./Resumos/06.md) |
 |    **07**     | Gerenciamento de Permissões com `chmod`                          | **Aula 06** - Comando chmod                         |   ❌   | [Ver Resumo](./Resumos/07.md) |
