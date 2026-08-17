@@ -24,7 +24,7 @@
 |    **03**     | Comandos Básicos de Navegação (`ls`, `cd`, `pwd`, `clear`)       | **Aula 04** (Comando ls) e **Aula 17** (Básicos 01) |   ✅   | [Ver Resumo](./Resumos/03.md) |
 |    **04**     | Manipulação de Arquivos e Diretórios (`mkdir`, `cp`, `rm`)       | **Aula 23** (cp, rm) e **Aula 24** (mkdir, rmdir)   |   ✅   | [Ver Resumo](./Resumos/04.md) |
 |    **05**     | Leitura de Arquivos e Logs (`head`, `tail`, `cat`)               | **Aula 19** (head) e **Aula 21** (tail, tac, wc)    |   ✅   | [Ver Resumo](./Resumos/05.md) |
-|    **06**     | Permissões de Acesso a Arquivos e Pastas                         | **Aula 05** - Permissões de Acesso no Terminal      |  ⌛✅  | [Ver Resumo](./Resumos/06.md) |
+|    **06**     | Permissões de Acesso a Arquivos e Pastas                         | **Aula 05** - Permissões de Acesso no Terminal      |   ✅   | [Ver Resumo](./Resumos/06.md) |
 |    **07**     | Gerenciamento de Permissões com `chmod`                          | **Aula 06** - Comando chmod                         |   ⌛   | [Ver Resumo](./Resumos/07.md) |
 |    **08**     | Donos e Grupos de Arquivos (`chown`, `chgrp`)                    | **Aula 07** - Comandos chgrp e chown                |   ❌   | [Ver Resumo](./Resumos/08.md) |
 |    **09**     | Gestão de Usuários e Identidade (`/etc/passwd`, `/etc/shadow`)   | **Aula 33** (/etc/passwd) e **Aula 35** (shadow)    |   ❌   | [Ver Resumo](./Resumos/09.md) |
