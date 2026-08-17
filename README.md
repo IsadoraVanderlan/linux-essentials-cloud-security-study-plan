@@ -25,10 +25,10 @@
 |    **04**     | Manipulação de Arquivos e Diretórios (`mkdir`, `cp`, `rm`)       | **Aula 23** (cp, rm) e **Aula 24** (mkdir, rmdir)   |   ✅   | [Ver Resumo](./Resumos/04.md) |
 |    **05**     | Leitura de Arquivos e Logs (`head`, `tail`, `cat`)               | **Aula 19** (head) e **Aula 21** (tail, tac, wc)    |   ✅   | [Ver Resumo](./Resumos/05.md) |
 |    **06**     | Permissões de Acesso a Arquivos e Pastas                         | **Aula 05** - Permissões de Acesso no Terminal      |   ✅   | [Ver Resumo](./Resumos/06.md) |
-|    **07**     | Gerenciamento de Permissões com `chmod`                          | **Aula 06** - Comando chmod                         |   ⌛   | [Ver Resumo](./Resumos/07.md) |
-|    **08**     | Donos e Grupos de Arquivos (`chown`, `chgrp`)                    | **Aula 07** - Comandos chgrp e chown                |   ❌   | [Ver Resumo](./Resumos/08.md) |
-|    **09**     | Gestão de Usuários e Identidade (`/etc/passwd`, `/etc/shadow`)   | **Aula 33** (/etc/passwd) e **Aula 35** (shadow)    |   ❌   | [Ver Resumo](./Resumos/09.md) |
-|    **10**     | Criação e Alteração de Usuários (`useradd`, `passwd`, `usermod`) | **Aula 36** (useradd) e **Aula 39** (usermod)       |   ❌   | [Ver Resumo](./Resumos/10.md) |
+|    **07**     | Gerenciamento de Permissões com `chmod`                          | **Aula 06** - Comando chmod                         |   ✅   | [Ver Resumo](./Resumos/07.md) |
+|    **08**     | Donos e Grupos de Arquivos (`chown`, `chgrp`)                    | **Aula 07** - Comandos chgrp e chown                |   ✅   | [Ver Resumo](./Resumos/08.md) |
+|    **09**     | Gestão de Usuários e Identidade (`/etc/passwd`, `/etc/shadow`)   | **Aula 33** (/etc/passwd) e **Aula 35** (shadow)    |   ✅   | [Ver Resumo](./Resumos/09.md) |
+|    **10**     | Criação e Alteração de Usuários (`useradd`, `passwd`, `usermod`) | **Aula 36** (useradd) e **Aula 39** (usermod)       |   ⏳   | [Ver Resumo](./Resumos/10.md) |
 |    **11**     | Gerenciamento de Processos e Sinais (`kill`, `killall`)          | **Aula 43** - Processos, Sinais, kill e killall     |   ❌   | [Ver Resumo](./Resumos/11.md) |
 |    **12**     | Monitoramento do Sistema e Desempenho (`top`, `uptime`)          | **Aula 28** - Comandos top e uptime                 |   ❌   | [Ver Resumo](./Resumos/12.md) |
 |    **13**     | Filtros e Busca de Texto com Expressões Regulares (`grep`)       | **Aula 56** - Comando grep e Filtragem              |   ❌   | [Ver Resumo](./Resumos/13.md) |
