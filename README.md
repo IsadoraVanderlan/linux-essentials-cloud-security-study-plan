@@ -41,7 +41,6 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D24?style=for-the-badge&logo=debian&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 - **Sistema Operacional:** Linux (Distribuições Debian/Ubuntu)
 - **Interface:** Shell / Terminal Bash
